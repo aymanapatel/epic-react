@@ -1,0 +1,19 @@
+{
+  "name": "epic-react",
+  "version": "1.0.0",
+  "description": "Repo to create the EPIC REACT APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aymanapatel/epic-react.git"
+  },
+  "author": "Ayman Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aymanapatel/epic-react/issues"
+  },
+  "homepage": "https://github.com/aymanapatel/epic-react#readme"
+}
